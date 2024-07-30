@@ -21,9 +21,9 @@ const USER_CONFIG = {
       // 想要发送的人的名字
       name: '茜茜宝贝',
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: 'oKjm_6olLpBuLHz3b9uTh3IcUmqs',
+      id: 'oKjm_6gp2bAkLoAD8K0ZLhK-6FD8',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
-      useTemplateId: 'R1-9tgVDgiT3VwHAPoBlA79o6UYe3TaPWHbGO1PU8V4',
+      useTemplateId: '4wYJlH_xW8LCZBN4IBinKq0voOgzKOwxP-Z8DSSDFUI',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
       horoscopeDate: '03-12',
       horoscopeDateType:"今日",
@@ -61,7 +61,7 @@ const USER_CONFIG = {
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: 'oKjm_6nrYcvEy6PEHgnv1Jp85Ih4',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
-      useTemplateId: 'R1-9tgVDgiT3VwHAPoBlA79o6UYe3TaPWHbGO1PU8V4',
+      useTemplateId: '4wYJlH_xW8LCZBN4IBinKq0voOgzKOwxP-Z8DSSDFUI',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
       horoscopeDate: '04-01',
       horoscopeDateType:"今日",
