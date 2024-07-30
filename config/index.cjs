@@ -13,8 +13,8 @@ const USER_CONFIG = {
   // 使用微信测试号：公众号APP_SECRET
   APP_SECRET: 'f2c2906c7894e4f6843b53b77347041c',
 
-  PROVINCE: '上海',
-  CITY: '上海',
+  PROVINCE: '江苏',
+  CITY: '徐州',
 
   USERS: [
     {
@@ -26,8 +26,8 @@ const USER_CONFIG = {
       useTemplateId: 'ec_vGm9g4SnVTQ0LLZgKWoYvUSj5b3U1iBVfrp7X7H4',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
       horoscopeDate: '03-12',
-      horoscopeDateType:"今日",
-      openUrl:"#",
+      // horoscopeDateType:"今日",
+      // openUrl:"#",
       festivals: [
         // 注意：此条配置日期为阳历日期，因为`type`中 “生日” 之前没有 * 符号
         {
